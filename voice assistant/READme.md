@@ -16,6 +16,6 @@ Install the dependencies using:
 
 ```bash
 pip install requests pyaudio pyttsx3 SpeechRecognition
-To use Parsehub set up
+To use Parsehub,get the below two tokens from parsehub site.
 API_KEY=''
 PROJECT TOKEN=''
